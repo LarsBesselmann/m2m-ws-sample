@@ -1,7 +1,7 @@
 #!/bin/sh
 
 
-WORKDIR="/home/ibmdemo/m2m-ws-sample"
+WORKDIR="/home/itzuser/Student/m2m-ws-sample"
 echo $WORKDIR
 #ls $WORKDIR
 
